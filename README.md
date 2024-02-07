@@ -72,10 +72,6 @@ a zip file with all the files or a link to a GitHub repo via email.
   the website, but feel no pressure submitting whatever you have by the end of
   the third hour. It is not expected that you complete all the milestones.
   Just show us what you've got.
-* What comes after the challenge?
-  * You will schedule a 15-minute demo with us to show your project. During the
-  demo, you and one of us will run the website and talk about code layout,
-  implementation details, etc.
 * What are you looking for from my submission?
   * We are looking for the following items, in order of decreasing weight:
     * A functional website that appears close to the Figma and contains the
